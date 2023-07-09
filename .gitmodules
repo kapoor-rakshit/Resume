@@ -1,0 +1,6 @@
+[submodule "Date-game"]
+	path = Date-game
+	url = https://github.com/kapoor-rakshit/Date-game
+[submodule "Binary-Search-Tree"]
+	path = Binary-Search-Tree
+	url = https://github.com/kapoor-rakshit/Binary-Search-Tree
